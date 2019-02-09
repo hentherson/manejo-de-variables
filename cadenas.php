@@ -1,6 +1,6 @@
 <?php
 
-$nombre = 'Jeremy';
+$nombre = 'Jeremy';             // Compila mas rapido con comillas simple que con comillas dobles.
 $apelido = "Reyes";
 $edad = '28';
 
