@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f50c6da-37de-4022-a29e-3cccd9727e92" name="Default" comment="" />
+    <list default="true" id="6f50c6da-37de-4022-a29e-3cccd9727e92" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/condicionales.php" beforeDir="false" afterPath="$PROJECT_DIR$/condicionales.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +34,8 @@
       <file leaf-file-name="cadenas.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cadenas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="255">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -47,11 +49,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="condicionales.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="condicionales.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/condicionales.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="89" column="24" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
+            <state relative-caret-position="255">
+              <caret line="36" column="6" selection-start-line="36" selection-end-line="36" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ejercicio-1.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ejercicios/ejercicio-1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -78,7 +89,9 @@
         <option value="$PROJECT_DIR$/impresion.php" />
         <option value="$PROJECT_DIR$/cadenas.php" />
         <option value="$PROJECT_DIR$/casteo.php" />
+        <option value="$PROJECT_DIR$/ejercicios/ejercicio.php" />
         <option value="$PROJECT_DIR$/condicionales.php" />
+        <option value="$PROJECT_DIR$/ejercicios/ejercicio-1.php" />
       </list>
     </option>
   </component>
@@ -106,6 +119,11 @@
             <path>
               <item name="manejo-de-variables" type="b2602c69:ProjectViewProjectNode" />
               <item name="manejo-de-variables" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="manejo-de-variables" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manejo-de-variables" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ejercicios" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -142,12 +160,12 @@
       <option name="presentableId" value="Default" />
       <updated>1549751482748</updated>
       <workItem from="1549751484310" duration="483000" />
-      <workItem from="1549752711824" duration="3410000" />
+      <workItem from="1549752711824" duration="8574000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3772000" />
+    <option name="totallyTimeSpent" value="8936000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="-8" width="1382" height="784" extended-state="6" />
@@ -162,7 +180,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3290938" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.37042925" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.37042925" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -235,13 +253,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cadenas.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/casteo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -249,10 +260,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cadenas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/condicionales.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="89" column="24" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
+        <state relative-caret-position="255">
+          <caret line="36" column="6" selection-start-line="36" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicios/ejercicio-1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
         </state>
       </provider>
     </entry>

@@ -2,9 +2,9 @@
 
 $edad_adulto = 18;
 
-$edad_hentheson = 28;
-$edad_jeremy = 27;
-$edad_sofi = 6;
+$edad_hentheson = 30;
+$edad_jeremy = 30;
+$edad_sofi = 30;
 
 if ($edad_hentheson >= $edad_adulto) {
     echo "Hentherson ingresó con una edad de {$edad_hentheson}";
